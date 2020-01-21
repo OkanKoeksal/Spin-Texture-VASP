@@ -1,5 +1,5 @@
 
-Spin Texture / VASP
+## Spin Texture / VASP
 
 Spin Texture / VASP contains two executable files in order to generate a 2D/3D spin texture using VASP Output data. 
 ```
