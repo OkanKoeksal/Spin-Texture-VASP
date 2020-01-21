@@ -1,7 +1,7 @@
 
 ## Spin Texture / VASP
 
-Spin Texture / VASP contains two executable files in order to generate a 2D/3D spin texture using VASP Output data. 
+Spin Texture / VASP contains two executable files in order to generate a 2D/3D spin texture using VASP output data. 
 
 ```
 1. Manual_Spin_Texture --> Documentation for generating spin texture plots using C++-code listed below.
