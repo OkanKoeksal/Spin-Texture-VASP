@@ -22,6 +22,7 @@ from VASP (PROCAR, EIGENVAL as well as generated k-points path).
 Requirements:
 ```
 1. For running the code: gcc/g++ version >= 4.7.2 on Cygwin
+
 2. For plotting the spin textures: gnuplot version >= 5.0 is required.
 ```
 Employing the scripts, it is possible to generate and plot spin textures using VASP output files (PROCAR, EIGENVAL).    
