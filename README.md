@@ -6,10 +6,10 @@ Spin Texture / VASP contains two executable files in order to generate a 2D/3D s
 ```
 1. Manual_Spin_Texture --> Documentation for generating spin texture plots using C++-code listed below.
 
-2. main_gcc_version_cygwin.exe  --> Executable on cygwin environment in conjunction with 3 output files
+2. main_gcc_version_cygwin.exe  --> Executable in an cygwin environment in conjunction with 3 output files
 from VASP (PROCAR, EIGENVAL as well as generated k-points path).
 
-3. main_gcc_version_debian_linux.exe --> Executable on linux environment in conjunction with 3 output files
+3. main_gcc_version_debian_linux.exe --> Executable in an linux environment in conjunction with 3 output files
 from VASP (PROCAR, EIGENVAL as well as generated k-points path).
 
 4. side_view.gnu --> Plots the spin texture (side view) as a function of the band energy along kx, ky-directions. 
