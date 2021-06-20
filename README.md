@@ -29,5 +29,4 @@ Employing the scripts, it is possible to generate and plot spin textures using V
 
 For more informations/questions send an e-mail to: koeksal.okan@gmail.com
 
-A tutorial can be found at:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjvy6rrRa5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![A tutorial can be found at:](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Tjvy6rrRa5A)
