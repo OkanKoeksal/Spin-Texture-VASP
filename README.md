@@ -30,6 +30,5 @@ Employing the scripts, it is possible to generate and plot spin textures using V
 For more informations/questions send an e-mail to: koeksal.okan@gmail.com
 
 A tutorial explaining the steps needed for the usage of this code can be found at:
-```
 
 [![Tutorial](https://i.imgur.com/svSFrsZ.png)](https://youtu.be/Tjvy6rrRa5A)
